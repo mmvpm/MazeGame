@@ -1,0 +1,6 @@
+Height = 41
+Width = 71
+Number of players = 1
+Rendering (new) = 1
+Rendering (solve) = 1
+Delay in seconds = 0.003
